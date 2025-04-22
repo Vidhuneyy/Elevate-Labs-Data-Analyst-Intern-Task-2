@@ -1,7 +1,7 @@
 # 📊 Sales Data Visualization & Storytelling Project
 
 ## Objective
-The goal of this project is to **master the art of visual storytelling** using real-world sales data. We create impactful dashboards using **Power BI** or **Tableau** to reveal key insights, trends, and business opportunities.
+The goal of this project is to **master the art of visual storytelling** using super market sales data. We create impactful dashboards using **Power BI** to reveal key insights, trends, and business opportunities.
 
 ---
 
