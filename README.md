@@ -6,7 +6,9 @@ The goal of this project is to **master the art of visual storytelling** using r
 ---
 
 ## 🗂️ Dataset
-**File:**   
+**File:** [sales.csv.zip](https://github.com/user-attachments/files/19845298/sales.csv.zip)
+
+
 **Rows:** 234,925  
 **Columns:**
 - `Branch`: Location of the store
